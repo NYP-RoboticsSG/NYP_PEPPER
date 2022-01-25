@@ -1,0 +1,18 @@
+<package installOnlyAtStartup="false" uuid="operatingrobot" version="0.1.0">
+  <names>
+    <name lang="en_US">Operating robot</name>
+    </names>
+  <supportedLanguages>
+    <language>en_US</language>
+    </supportedLanguages>
+  <descriptionLanguages>
+    <language>en_US</language>
+    </descriptionLanguages>
+  <contents>
+    <behaviorContent path="behavior_1">
+      <userRequestable />
+      <nature>interactive</nature>
+      <permissions />
+      </behaviorContent>
+    </contents>
+  </package>

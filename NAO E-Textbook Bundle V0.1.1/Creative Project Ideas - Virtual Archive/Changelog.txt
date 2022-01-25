@@ -1,0 +1,41 @@
+-----------------------------------
+Updates 15/Apr/2021 - version 0.1.1
+-----------------------------------
+
+## In Creative Project Ideas - Virtual Archive ##
+
+* Fix python ouput name error in "6 NAO plays rock-papper-scissors" 
+* Fix added ALMemoryEvent "redBallDetected" in 4 Playing ball with NAO
+* Fix added ALMemoryEvent "redBallDetected" in 5 NAO detects a red ball
+* Fix "9 Remember That?" NAO can now continue after user says continue playing. Lightbulb typo also fixed.
+* Added Chinese language version of "11 NAO as a language teacher"
+* Fix "10 NAO helps tidy up" typo in python script, and output name error
+* Fix "12 NAO as a shopping helper" NAO will stop repeating "that's not the product you want" 
+* Fix division error in "14 NAO as a calculator"
+* Fix phrase error in "19 Your own Basic Channel"
+
+
+## In The Basics - Example Solutions (C.2.1-C.4.8) ##
+
+Exercise C2.1 (Translated)
+- Translated say content - "Hello World!!" from German to English
+
+Exercise C4.4 (Translated)
+- Translated say content - "I am taking a picture" from German to English
+
+Translation of Choreographe file name
+Exercise C4.5 NAO Responds (Translated)
+- Translated title of file name from German to English
+
+Exercise C4.6 NAO can do it all part 1 (Translated)
+- Translated title of file name from German to English
+- Removed German dialog .top file
+- Translated Say box content to English
+
+Exercise C4.7 NAO can do it all part 2 (Translated)
+- Translated title of file from German to English
+- Removed German dialog .top file
+
+Exercise C4.8 NAO can do it all part 3 (Translated)
+- Translated title of file from German to English
+- Fixed Dialog box
