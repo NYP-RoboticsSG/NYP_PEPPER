@@ -1,0 +1,10 @@
+Textbook Mistakes:
+
+9 Remember That: Adding the dialog box code from the textbook will render NAO unable to continue playing after the user asks him to do so.
+This is fixed in the example solution by using the gotoReactivate function instead of the nextProposal function. (Page 69)
+
+14 NAO as a calculator: Adding the Python Script code from the textbook will result in NAO unable to give float numbers (decimals) as answers when tasked with division.
+This is fixed in the example solution by adding from "__future__ import division". (Page 105)
+
+19 Your own Basic Channel!: If you use the workbook's qichat code, NAO will say "That's a shame" if you reply "so" to NAO when he asks how are you.
+This is fixed by adding parenthesis to signify you are looking for a specific phrase rather than individual words. (Page 131)
